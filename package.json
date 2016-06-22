@@ -1,0 +1,31 @@
+{
+  "name": "react-native-froala-webview",
+  "version": "0.1.0",
+  "description": "React native component to display your markup/html in a webView for Froala WSIWYG.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donedgardo/react-native-froala-webview.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "webview",
+    "froala",
+    "wsiwyg"
+  ],
+  "author": "Edgardo G. Carreras (edgardo@skyrocketdev.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/donedgardo/react-native-froala-webview/issues"
+  },
+  "homepage": "https://github.com/donedgardo/react-native-froala-webview#readme",
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-native": "^0.28.0",
+    "react-native-showdown": "^0.1.1"
+  }
+}
